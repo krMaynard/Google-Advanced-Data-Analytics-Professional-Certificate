@@ -11,8 +11,9 @@ Feel free to explore my work and share your valuable feedback. Your insights and
 Happy browsing!
 
 Course progress:
-1. Foundations of Data Science - [Completed](https://www.coursera.org/account/accomplishments/verify/7XUCJXAV5RAX)
+1. [Foundations of Data Science](https://www.coursera.org/learn/foundations-of-data-science) - [Completed](https://www.coursera.org/account/accomplishments/verify/7XUCJXAV5RAX)
 2. [Getting Started with Python](https://www.coursera.org/account/accomplishments/verify/7XUCJXAV5RAX) - In Progress
 
 Kieran Maynard
-http://krm.fyi
+
+[krm.fyi](http://krm.fyi)
