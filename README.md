@@ -10,6 +10,11 @@ Feel free to explore my work and share your valuable feedback. Your insights and
 
 Happy browsing!
 
+**Kieran Maynard**
+
+[krm.fyi](http://krm.fyi)
+
+
 Course progress:
 1. [Foundations of Data Science](https://www.coursera.org/learn/foundations-of-data-science) - [Completed](https://www.coursera.org/account/accomplishments/verify/7XUCJXAV5RAX)
 
@@ -30,6 +35,15 @@ Course progress:
 - Manipulate data structures such as , lists, tuples, dictionaries, and sets
 - Import and use Python libraries such as NumPy and pandas
 
-Kieran Maynard
+Coming soon:
 
-[krm.fyi](http://krm.fyi)
+3. Go Beyond the Numbers: Translate Data into Insights
+
+4. The Power of Statistics
+
+5. Regression Analysis: Simplify Complex Data Relationships
+
+6. The Nuts and Bolts of Machine Learning
+
+7. Google Advanced Data Analytics Capstone
+
