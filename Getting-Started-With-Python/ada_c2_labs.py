@@ -13,7 +13,7 @@ def fetch_epa(key):
     
     Returns the values at a given key.
     '''
-    epa = pd.read_csv('https://raw.githubusercontent.com/adacert/EPA/main/c2_epa_air_quality.csv')
+    epa = pd.read_csv('c2_epa_air_quality.csv')
     state = epa['state_name'].to_list()
     county = epa['county_name'].to_list()
     aqi = epa['aqi'].to_list()
